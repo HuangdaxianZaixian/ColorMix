@@ -1,3 +1,4 @@
+#有没有用
 import numpy as np
 import numpy.random as rd
 from scipy.integrate import trapz
